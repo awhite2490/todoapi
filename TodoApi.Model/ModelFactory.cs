@@ -4,9 +4,9 @@ namespace TodoApi.Model
 {
     public static class ModelFactory
     {
-        public static ITodoItem GetTodoItem(string text)
+        public static ITodoItem GetTodoItem(string id, string text)
         {
-            TodoItem result = new TodoItem(text);
+            TodoItem result = new TodoItem(id, text);
             return result;
         }
     }

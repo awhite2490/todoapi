@@ -2,9 +2,11 @@
 
   <ItemGroup>
     <ProjectReference Include="..\TodoApi.Model\TodoApi.Model.csproj" />
+    <ProjectReference Include="..\TodoApi.Logging\TodoApi.Logging.csproj" />
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.Azure.Cosmos" Version="3.26.2" />
     <PackageReference Include="MongoDB.Driver" Version="2.15.0" />
   </ItemGroup>
 

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EdUBzaKRbwyOZ+pykEw4OKSRKucwP5n9IZCC5MnXrIh+hj0g1VeMpSPUhVIt3x0vr3f4pl2yM/s7H5uqs7wysA==",
+  "success": true,
+  "projectFilePath": "/home/andrew/source/TodoApi/TodoApi.Logging/TodoApi.Logging.csproj",
+  "expectedPackageFiles": [
+    "/home/andrew/.nuget/packages/nlog/4.7.15/nlog.4.7.15.nupkg.sha512"
+  ],
+  "logs": []
+}

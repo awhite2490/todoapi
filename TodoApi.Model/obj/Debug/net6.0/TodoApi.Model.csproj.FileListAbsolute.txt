@@ -1,0 +1,12 @@
+/home/andrew/source/TodoApi/TodoApi.Model/bin/Debug/net6.0/TodoApi.Model.deps.json
+/home/andrew/source/TodoApi/TodoApi.Model/bin/Debug/net6.0/TodoApi.Model.dll
+/home/andrew/source/TodoApi/TodoApi.Model/bin/Debug/net6.0/ref/TodoApi.Model.dll
+/home/andrew/source/TodoApi/TodoApi.Model/bin/Debug/net6.0/TodoApi.Model.pdb
+/home/andrew/source/TodoApi/TodoApi.Model/obj/Debug/net6.0/TodoApi.Model.csproj.AssemblyReference.cache
+/home/andrew/source/TodoApi/TodoApi.Model/obj/Debug/net6.0/TodoApi.Model.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrew/source/TodoApi/TodoApi.Model/obj/Debug/net6.0/TodoApi.Model.AssemblyInfoInputs.cache
+/home/andrew/source/TodoApi/TodoApi.Model/obj/Debug/net6.0/TodoApi.Model.AssemblyInfo.cs
+/home/andrew/source/TodoApi/TodoApi.Model/obj/Debug/net6.0/TodoApi.Model.csproj.CoreCompileInputs.cache
+/home/andrew/source/TodoApi/TodoApi.Model/obj/Debug/net6.0/TodoApi.Model.dll
+/home/andrew/source/TodoApi/TodoApi.Model/obj/Debug/net6.0/ref/TodoApi.Model.dll
+/home/andrew/source/TodoApi/TodoApi.Model/obj/Debug/net6.0/TodoApi.Model.pdb

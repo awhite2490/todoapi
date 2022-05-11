@@ -1,0 +1,17 @@
+/home/andrew/source/TodoApi/TodoApi.DAL/bin/Debug/net6.0/Microsoft.Azure.Cosmos.ServiceInterop.dll
+/home/andrew/source/TodoApi/TodoApi.DAL/bin/Debug/net6.0/Cosmos.CRTCompat.dll
+/home/andrew/source/TodoApi/TodoApi.DAL/bin/Debug/net6.0/TodoApi.DAL.deps.json
+/home/andrew/source/TodoApi/TodoApi.DAL/bin/Debug/net6.0/TodoApi.DAL.dll
+/home/andrew/source/TodoApi/TodoApi.DAL/bin/Debug/net6.0/ref/TodoApi.DAL.dll
+/home/andrew/source/TodoApi/TodoApi.DAL/bin/Debug/net6.0/TodoApi.DAL.pdb
+/home/andrew/source/TodoApi/TodoApi.DAL/bin/Debug/net6.0/TodoApi.Model.dll
+/home/andrew/source/TodoApi/TodoApi.DAL/bin/Debug/net6.0/TodoApi.Model.pdb
+/home/andrew/source/TodoApi/TodoApi.DAL/obj/Debug/net6.0/TodoApi.DAL.csproj.AssemblyReference.cache
+/home/andrew/source/TodoApi/TodoApi.DAL/obj/Debug/net6.0/TodoApi.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrew/source/TodoApi/TodoApi.DAL/obj/Debug/net6.0/TodoApi.DAL.AssemblyInfoInputs.cache
+/home/andrew/source/TodoApi/TodoApi.DAL/obj/Debug/net6.0/TodoApi.DAL.AssemblyInfo.cs
+/home/andrew/source/TodoApi/TodoApi.DAL/obj/Debug/net6.0/TodoApi.DAL.csproj.CoreCompileInputs.cache
+/home/andrew/source/TodoApi/TodoApi.DAL/obj/Debug/net6.0/TodoApi.DAL.csproj.CopyComplete
+/home/andrew/source/TodoApi/TodoApi.DAL/obj/Debug/net6.0/TodoApi.DAL.dll
+/home/andrew/source/TodoApi/TodoApi.DAL/obj/Debug/net6.0/ref/TodoApi.DAL.dll
+/home/andrew/source/TodoApi/TodoApi.DAL/obj/Debug/net6.0/TodoApi.DAL.pdb

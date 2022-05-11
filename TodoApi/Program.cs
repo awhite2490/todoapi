@@ -1,6 +1,32 @@
-var builder = WebApplication.CreateBuilder(args);
-var app = builder.Build();
+using TodoApi.DAL;
+using TodoApi.DAL.Interface;
+using TodoApi.Model.Interface;
 
-app.MapGet("/", () => "Hello World!");
+namespace TodoApi
+{
 
-app.Run();
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            ITodoDAL dal = DALFactory.GetTodoDAL();
+
+        }
+
+        static void StartWebServce(string[] args)
+        {
+            WebApplicationBuilder builder = WebApplication.CreateBuilder(args);
+            WebApplication app = builder.Build();
+
+            app.MapGet("/", () => "Hello World!");
+
+            app.MapPost("/items", () => "post");
+
+            app.MapPut("/items", () => "put");
+
+            app.MapDelete("/items", () => "delete");
+
+            app.Run();
+        }
+    }
+}
